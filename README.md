@@ -48,3 +48,9 @@ extraneous `transfer`s and `emit`s
 
 Don't. You will almost certainly loose money. Feel free to admire the code or use it as
 a reference point, but please don't try to run it as-is.
+
+## Related links
+
+- [MeetKai](https://meetkai.xyz) — the operator layer behind Kai CMO workflows.
+- [KaiCalls](https://kaicalls.com) — AI voice agents for small-business phone answering and lead capture.
+- [Connor Gallic](https://connorgallic.com) — founder building Kai, KaiCalls, and AI automation systems.
